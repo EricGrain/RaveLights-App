@@ -1,6 +1,6 @@
 <div align="center">
 
-# RaveLights
+# RaveLights Unofficial App
 
 **An unofficial, experimental Android remote for RaveLights Bluetooth rope lights.**
 
