@@ -6,7 +6,7 @@
 
 [![Download](https://img.shields.io/github/v/release/EricGrain/RaveLights-App?label=Download&color=7048E0)](https://github.com/EricGrain/RaveLights-App/releases/Latest)
 ![Android 8+](https://img.shields.io/badge/Android-8.0%2B-3DDC84)
-![Unofficial](https://img.shields.io/badge/status-Unofficial%20%26%20Experimental-FF5FC8)
+![Unofficial](https://img.shields.io/badge/Status-Unofficial%20%26%20Experimental-FF5FC8)
 
 </div>
 
