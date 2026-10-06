@@ -4,7 +4,7 @@
 
 **An unofficial, experimental Android remote for RaveLights Bluetooth rope lights.**
 
-[![Download](https://img.shields.io/github/v/release/EricGrain/RaveLights-App?label=Download&color=7048E0)](https://github.com/EricGrain/RaveLights-App/releases/Latest)
+[![Download](https://img.shields.io/github/v/release/EricGrain/RaveLights-App?label=Download&color=7048E0)](https://github.com/EricGrain/RaveLights-App/releases/latest)
 ![Android 8+](https://img.shields.io/badge/Android-8.0%2B-3DDC84)
 ![Unofficial](https://img.shields.io/badge/Status-Unofficial%20%26%20Experimental-FF5FC8)
 
