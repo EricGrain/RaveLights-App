@@ -73,15 +73,6 @@ The app can check this page for a newer version when it opens (at most once a da
 
 When an update is available, **Download** opens the new APK in your browser. Open the file to install it. Your settings are kept.
 
-## Found a problem?
-
-Please [open an issue](https://github.com/EricGrain/RaveLights-App/issues). It helps a lot to include:
-
-- your phone model and Android version
-- the app version (**More > About**) and, if you know it, your lights' firmware version
-- what you did, and what you expected to happen
-- optionally, the packet log: **More > Danger zone > unlock > Log > Copy all**
-
 ---
 
 <div align="center">
