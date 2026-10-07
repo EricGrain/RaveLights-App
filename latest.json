@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "1.0",
-  "notes": "First release.",
-  "url": "https://github.com/EricGrain/RaveLights-App/releases/download/V1.0/RaveLights-1.0.apk"
+  "versionCode": 45,
+  "versionName": "1.1",
+  "notes": "- Added a toggle for Smart Brightness.\n- Added support for Flex mode on foldables.\n- Added some app animations.\n- Small improvements with the newest firmware.\n- Adjustments to rope dragging animations.\n- Cleaned up the More tab and settings.\n- Removed excess toast notifications.\n- Small code cleanup.",
+  "url": "https://github.com/EricGrain/RaveLights-App/releases/download/V1.1/RaveLights-1.1.apk"
 }
