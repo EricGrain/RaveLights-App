@@ -1,16 +1,16 @@
 <div align="center">
 
-# RaveLights Unofficial App
+# RaveLights
 
 **An unofficial, experimental Android remote for RaveLights Bluetooth rope lights.**
 
-[![Download](https://img.shields.io/github/v/release/EricGrain/RaveLights-App?label=Download&color=7048E0)](https://github.com/EricGrain/RaveLights-App/releases/latest)
+[![Download](https://img.shields.io/github/v/release/EricGrain/RaveLights-App?label=Download&color=12B5F5)](https://github.com/EricGrain/RaveLights-App/releases/latest)
 ![Android 8+](https://img.shields.io/badge/Android-8.0%2B-3DDC84)
-![Unofficial](https://img.shields.io/badge/Status-Unofficial%20%26%20Experimental-FF5FC8)
+![Unofficial](https://img.shields.io/badge/status-Unofficial%20%26%20Experimental-FF5FC8)
 
 </div>
 
-> **Not the official RaveLights app.** This is a fan-made remote by Eric Gray. It is not affiliated with, endorsed by, or supported by the RaveLights company. RaveLights and its logo belong to their owners.
+> **Not the official RaveLights app.** This is a fan-made remote by Eric Gray / Monkey. It is not affiliated with, endorsed by, or supported by the RaveLights company. RaveLights and its logo belong to their owners. The Howloween name and logo belong to Howloween, and this app is not made or endorsed by them.
 
 <!-- Screenshots: edit this file on GitHub and drag your images in here. -->
 
@@ -27,27 +27,29 @@ Pick colors, set the brightness and mode, run light shows, and see all your ligh
 | **Light shows** | Beat-timed dances: Beat chase, Heartbeat, Build & drop, Pop song and Random disco, with tap tempo and half-time. |
 | **Patterns** | Breathe, Crossfade, Sparkle, Sunrise and your own Playlist of colors. |
 | **Learn palettes** | The lights only say "palette 12". Teach the app what color that is, and hide the palettes that don't work. |
-| **Pairing guide** | A step-by-step guide inside the app, including what to try with a single light. |
+| **Getting started** | A "Just got your lights?" welcome for first-time users, plus a step-by-step guide in More. |
+| **Easter egg** | There's a little surprise hidden in this version for a certain October event. You'll know it when you see it. |
+| **What's new** | A change log pops up once after each update and lives in More > About. |
 
 ## Install
 
 1. On your Android phone, open the [**latest release**](https://github.com/EricGrain/RaveLights-App/releases/latest).
-2. Download **RaveLights-1.0.apk** and open it.
+2. Download the **RaveLights APK** (the file ending in `.apk`) and open it.
 3. If Android asks, allow your browser (or Files app) to **install unknown apps**. Android also warns about apps that don't come from the Play Store. That is expected here.
 4. Open RaveLights, read the quick heads-up, and allow **Nearby devices** (Android asks for Location on some versions too, because Bluetooth scanning needs it. The app doesn't read your location).
 
 Needs Android 8.0 or newer and a phone with Bluetooth Low Energy.
 
+**A light has to be paired with another light once.** After that it works with the app on its own, even with the other light switched off and after restarts. Only own one light? Pair it once with a friend's. A brand-new or unpaired light has its radio switched off, so the app can't talk to it.
+
 ## Getting your lights connected
 
-For best results the lights should be **paired to each other first**, then the app follows them. The full steps are in the app under **More > Pairing guide**. The short version:
+For best results the lights should be **paired to each other first**, then the app follows them. The full steps are in the app under **More > Getting started**. The short version:
 
 1. Update your lights to the latest firmware.
 2. Pair two (or more) lights with each other using the buttons on the lights.
 3. Open RaveLights. Your lights appear under **My lights**. If they don't, tap **Use** under one.
 4. **Can't see your lights?** Cycle through a few colors on the lights themselves. Lights can go quiet when nothing is changing, and a color change makes them speak up so the app can find them.
-
-A single unpaired light often ignores the app. You can try putting it in pairing mode and tapping **Use**, but it may not work.
 
 ## How it works
 
@@ -61,6 +63,9 @@ RaveLights lights talk to each other with small Bluetooth messages. This app lis
 
 - **Experimental.** It may not work with every light or firmware version, and a firmware update on your lights can change how it behaves.
 - **Beat-timed shows will drift.** Bluetooth has a delay, so shows that follow a BPM are very likely to look a little out of time. Slower tempos work best, and the Lead and Half-time settings help.
+- **Smart Brightness can fight the app.** Newer light firmware can manage its own brightness to save battery, which can override what you set here. The app shows whether it's on and has a **Smart Brightness switch** on the Lights tab to turn it on or off. You can also switch it off on a light: hold + and − and move the brightness indicator away from the magnet position.
+- **Foldable phones.** The app re-fits itself when you fold, unfold or rotate, and a running show keeps going. When your phone is half-folded (flex mode), the Lights screen splits at the fold: the lights on one half and the controls on the other, and scrolling the controls doesn't move the lights. On tablets and other wide screens, each side scrolls on its own too. The options are under More → Screen.
+- **Lay the ropes out.** The ropes are stiff and springy like a real rope light. Drag them with one finger or several, even both ends of one rope at once. Where you drop a rope, it stays. Double-tap a rope to coil it again.
 - **Changes may not land on every light at the same moment.** Range is limited and busy places can drop messages.
 - **Flashing lights can trigger seizures** in people with photosensitive epilepsy. Use the Slow patterns if you're unsure, and warn anyone nearby.
 - **Danger zone.** Experimental tools (raw packets, hidden-mode lab, the packet log) live behind a locked **More > Danger zone**. Leave it locked unless you know what they do.
@@ -73,8 +78,18 @@ The app can check this page for a newer version when it opens (at most once a da
 
 When an update is available, **Download** opens the new APK in your browser. Open the file to install it. Your settings are kept.
 
+## Found a problem?
+
+Please [open an issue](https://github.com/EricGrain/RaveLights-App/issues). It helps a lot to include:
+
+- your phone model and Android version
+- the app version (**More > About**) and, if you know it, your lights' firmware version
+- what you did, and what you expected to happen
+- optionally, the packet log: **More > Danger zone > unlock > Log > Copy all**
+
 ---
 
 <div align="center">
-Made by Eric Gray. Not affiliated with the official RaveLights company.
+Made by Eric Gray / Monkey. Not affiliated with the official RaveLights company or Howloween.<br>
+Thank you to Toxmo and Howloween for the artwork.
 </div>
