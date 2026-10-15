@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "1.1",
-  "notes": "- Added a toggle for Smart Brightness.\n- Added support for Flex mode on foldables.\n- Added some app animations.\n- Small improvements with the newest firmware.\n- Adjustments to rope dragging animations.\n- Cleaned up the More tab and settings.\n- Removed excess toast notifications.\n- Small code cleanup.",
-  "url": "https://github.com/EricGrain/RaveLights-App/releases/download/V1.1/RaveLights-1.1.apk"
+  "versionCode": 53,
+  "versionName": "1.2",
+  "notes": "- Added an Easter egg...\n- Added welcome for first-time users.\n- Added What's new box after updates.\n- Further tweaked rope physics.\n- Improved physics performance/fps.\n- Improved multi-light performance.\n- Added multitouch support.\n- Fixed Smart Brightness not turning on.\n- Removed the pairing-mode \"Use\" option.",
+  "url": "https://github.com/EricGrain/RaveLights-App/releases/download/V1.2/RaveLights-1.2.apk"
 }
