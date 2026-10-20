@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "1.2",
-  "notes": "- Added an Easter egg...\n- Added welcome for first-time users.\n- Added What's new box after updates.\n- Further tweaked rope physics.\n- Improved physics performance/fps.\n- Improved multi-light performance.\n- Added multitouch support.\n- Fixed Smart Brightness not turning on.\n- Removed the pairing-mode \"Use\" option.",
-  "url": "https://github.com/EricGrain/RaveLights-App/releases/download/V1.2/RaveLights-1.2.apk"
+  "versionCode": 55,
+  "versionName": "1.3",
+  "notes": "- Palette colors now come built in, no teaching needed.\n- Added Find my light, to pick out your light in a crowd.\n- Your own lights now show first.\n- Other people's lights fold away and are forgotten after a while.\n- Long-press a light to pin it or hide it.\n- Cleaned up the More tab.\n- Uses less battery when the app isn't on screen.\n- Asks before taking over someone else's lights.\n- Added Share the app and Report a problem.",
+  "url": "https://github.com/EricGrain/RaveLights-App/releases/download/V1.3/RaveLights-1.3.apk"
 }
