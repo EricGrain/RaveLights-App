@@ -23,10 +23,11 @@ Pick colors, set the brightness and mode, run light shows, and see all your ligh
 | | |
 |---|---|
 | **Colors and modes** | Tap a glowing coil to pick a palette, drag the brightness bar, switch between the three modes. |
-| **Your lights, on screen** | Every light shows up as its own rope. Drag them around, rename them, and the app remembers them. Lights it can't hear turn grey instead of vanishing. |
+| **Your lights, on screen** | Every light shows up as its own rope, with your own lights always first. Drag them around, rename them, and the app remembers them. Lights it can't hear turn grey instead of vanishing. |
+| **Busy rooms** | At a party, other people's lights fold away under one row so yours don't get lost, and the app forgets them after a while. Long-press any light to pin it to the top or hide it. **Find my light** picks yours out of the crowd: change the color on your light and the app spots which one changed. |
 | **Light shows** | Beat-timed dances: Beat chase, Heartbeat, Build & drop, Pop song and Random disco, with tap tempo and half-time. |
 | **Patterns** | Breathe, Crossfade, Sparkle, Sunrise and your own Playlist of colors. |
-| **Learn palettes** | The lights only say "palette 12". Teach the app what color that is, and hide the palettes that don't work. |
+| **Palette colors** | The lights only say "palette 12". The app knows what color each one is out of the box. If yours look different, re-teach them in More > Colors, and hide the palettes you don't use. |
 | **Getting started** | A "Just got your lights?" welcome for first-time users, plus a step-by-step guide in More. |
 | **Easter egg** | There's a little surprise hidden in this version for a certain October event. You'll know it when you see it. |
 | **What's new** | A change log pops up once after each update and lives in More > About. |
@@ -48,7 +49,7 @@ For best results the lights should be **paired to each other first**, then the a
 
 1. Update your lights to the latest firmware.
 2. Pair two (or more) lights with each other using the buttons on the lights.
-3. Open RaveLights. Your lights appear under **My lights**. If they don't, tap **Use** under one.
+3. Open RaveLights. Your lights appear under **My lights**. If they don't, tap **Use** under one. Lots of lights around? Tap **Find my light** and change the color on yours.
 4. **Can't see your lights?** Cycle through a few colors on the lights themselves. Lights can go quiet when nothing is changing, and a color change makes them speak up so the app can find them.
 
 ## How it works
@@ -80,7 +81,7 @@ When an update is available, **Download** opens the new APK in your browser. Ope
 
 ## Found a problem?
 
-Please [open an issue](https://github.com/EricGrain/RaveLights-App/issues). It helps a lot to include:
+Tap **More > Report a problem** in the app: it opens a new issue here with your phone and app details already filled in. Or [open an issue](https://github.com/EricGrain/RaveLights-App/issues) yourself. It helps a lot to include:
 
 - your phone model and Android version
 - the app version (**More > About**) and, if you know it, your lights' firmware version
@@ -90,6 +91,6 @@ Please [open an issue](https://github.com/EricGrain/RaveLights-App/issues). It h
 ---
 
 <div align="center">
-Made by Eric Gray / Monkey. Not affiliated with the official RaveLights company or Howloween.<br>
-Thank you to Toxmo and Howloween for the artwork.
+Made by Eric Gray / Monkey. Not affiliated with the official RaveLights company.<br>
+Thank you to Toxmo and Howloween for the artwork. This app is not affiliated with Howloween.
 </div>
